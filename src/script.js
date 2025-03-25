@@ -3,9 +3,9 @@ function  hello (argument) {
 }
 
 function  goodbye(argument) {
-	console.log("Hello World");
+	console.log("goodbye");
 }
 
 function  thanks(argument) {
-	console.log("Hello World");
+	console.log("Something for work");
 }
