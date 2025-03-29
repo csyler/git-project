@@ -9,4 +9,5 @@ function  good(argument) {
 }
 function  new_func(argument) {
 	console.log("Good luck");
+	// We've created some new features here!
 }
